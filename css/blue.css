@@ -214,7 +214,7 @@ hr {
 
 h3 {
 	width:165px;
-	text-align: right;
+	text-align: center;
 	float:left;
 	padding:0;
 	clear:both;
@@ -738,4 +738,3 @@ label.error {
 	margin-left:80px;
 	width:238px;
 }
-
