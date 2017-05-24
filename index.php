@@ -1,0 +1,286 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta charset="UTF-8"/>
+<title>Curriculum Vitae | Rafael Cabral Jovito</title>
+<link type="text/css" rel="stylesheet" href="css/blue.css" />
+<link type="text/css" rel="stylesheet" href="css/print.css" media="print"/>
+<!--[if IE 7]>
+<link href="css/ie7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 6]>
+<link href="css/ie6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="js/jquery.tipsy.js"></script>
+<script type="text/javascript" src="js/cufon.yui.js"></script>
+<!-- <script type="text/javascript" src="js/scrollTo.js"></script> -->
+<script type="text/javascript" src="js/myriad.js"></script>
+<script type="text/javascript" src="js/jquery.colorbox.js"></script>
+<script type="text/javascript" src="js/custom.js"></script>
+<script type="text/javascript">
+		Cufon.replace('h1');
+</script>
+</head>
+<body>
+<!-- Begin Wrapper -->
+<div id="wrapper">
+  <div class="wrapper-top"></div>
+  <div class="wrapper-mid">
+    <!-- Begin Paper -->
+    <div id="paper">
+      <div class="paper-top"></div>
+      <div id="paper-mid">
+        <div class="entry">
+          <!-- Begin Image -->
+          <img class="portrait" src="images/jovito.jpg" alt="Rafael Jovito" />
+          <!-- End Image -->
+          <!-- Begin Personal Information -->
+          <div class="self">
+            <h1 class="name">Rafael Cabral Jovito<br />
+              <span style="margin-top: 2px;">Desenvolvedor Web - Programador</span></h1>
+            <ul>
+              <li class="ad">Rua São Jose Ed. Guarani, Lagoa Nova, Natal-RN</li>
+							<li class="tel">+55 84 98134-1760 / 84-99634-9871</li>
+							<li class="cit"><strong>Naturalidade:</strong> Brasília/DF</li>
+							<li class="cit"><strong>Estado Civil:</strong> solteiro</li>
+								<li class="cit">*veículo próprio</li>
+              <li class="mail">rafacj7@gmail.com</li>
+							<li class="mail">jovito@criadorademundos.com.br</li>
+              <li class="web"><a href"https://www.criadorademundos.com.br/">www.criadorademundos.com.br</a</li>
+							<hr style="width: 109%; margin-left: -9%;">
+            </ul>
+          </div>
+          <!-- End Personal Information -->
+          <!-- Begin Social -->
+          <div class="social">
+            <ul>
+              <li><a class='north' href="javascript:window.print()" title="Imprimir"><img src="images/icn-print.jpg" alt="" /></a></li>
+              <li><a class='north' id="contact" href="contact/index.html" title="Entrar em Contato"><img src="images/icn-contact.jpg" alt="" /></a></li>
+              <li><a class='north' href="https://www.facebook.com/rafael.jovito.7" title="Facebook"><img src="images/icn-facebook.jpg" alt="" /></a></li>
+            </ul>
+          </div>
+          <!-- End Social -->
+        </div>
+        <!-- Begin 2nd Row -->
+        <div class="entry">
+          <h2><strong>Formação Acadêmica</strong></h2>
+          <div class="content">
+            <h3>Concluido em junho 2013</h3>
+            <p><strong>Bacharel em Sistema de Informação</strong><br />
+              <em><strong>Universidade Potiguar - UnP</strong></em></p>
+          </div>
+					<hr style="width: 113%">
+        </div>
+        <!-- End 2nd Row -->
+				<!-- Begin 4th Row -->
+				<div class="entry">
+					<h2><strong>Conhecimentos</strong></h2>
+					<div class="content">
+							<h3>Linguagens de Programação</h3>
+							<ul class="skills">
+								<li>CSS5/HTML5</li>
+								<li>PHP5</li>
+								<li>JavaScript</li>
+								<li>Pyton</li>
+								<li>JAVA</li>
+								<li>ActionScript</li>
+								<li>Delphi</li>
+								<li>JQuery</li>
+								<li>SQL SEVER</li>
+							</ul>
+						</div>
+						<hr style="margin-top: 20px; width: 80%; margin-left: 11%;">
+				 <div class="content">
+						<h3>Conhecimento em Framework</h3>
+						<ul class="skills">
+							<li>Laravel</li>
+							<li>YII</li>
+							<li>Codeigniter</li>
+							<li>Pyton + Django</li>
+							<li>WordPress</li>
+							<li>Joomla</li>
+							<li>Moodle 1.9</li>
+							<li>Moodle 2.7.*</li>
+						</ul>
+					</div>
+				</div>
+				<hr>
+				<!-- End 4th Row -->
+        <!-- Begin 3rd Row -->
+        <div class="entry">
+          <h2><strong>Experiência Profissional</strong></h2>
+          <div class="content">
+            <h3>28/04/2014 - Atualmente trabalhando</h3>
+            <p><strong>IFRN – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte <br />
+              <em>Desenvolvedor Web e Programador</strong></em></p>
+            <ul class="info">
+							</br>
+							<a style="text-decoration: none;">Habilidades Desenvolvidas:</a>
+              <li>Desenvolvimento, manutenção e implementação do sistema do EaD - IFRN</li>
+              <li>Programação em PHP, HTML5, CSS5, SQL, JavaScript, JQuery, plataforma Moodle, Pyton</li>
+							<li>Framework: WordPress, Laravel, Django</li>
+            </ul>
+          </div>
+          <div class="content">
+						<h3>02/07/2012 - 30/06/2013</h3>
+            <p><strong>TECNOTECH SISTEMAS LTDA <br />
+              <em>Desenvolvedor Web e Programador</strong></em></p>
+            <ul class="info">
+							</br>
+							<a style="text-decoration: none;">Habilidades Desenvolvidas:</a>
+              <li>Desenvolvimento, manutenção e implementação de softwares desenvolvidos pela empresa.</li>
+              <li>Programação em PHP, HTML, CSS, SQL, JavaScript, JQuery.</li>
+            </ul>
+          </div>
+					<div class="content">
+						<h3>01/02/2012 - 15/05/2012</h3>
+            <p><strong>MAISDATA COMUNICAÇÃO DIRETA. <br />
+              <em>Técnico de Informática</strong></em></p>
+            <ul class="info">
+							</br>
+							<a style="text-decoration: none;">Habilidades Desenvolvidas:</a>
+              <li>Montagem e Manutenção de Computadores, Instalação e Suporte de Software, Suporte em Redes e Servidores Linux e Windows.</li>
+              <li>Programação em PHP, Programação em MySQL.</li>
+            </ul>
+          </div>
+					<div class="content">
+						<h3>02/07/2012 - 30/06/2013</h3>
+            <p><strong>RN NEGÓCIOS COMÉRCIO E INFORMÁTICA LTDA<br />
+              <em>Desenvolvedor Web e Programador</strong></em></p>
+            <ul class="info">
+							</br>
+							<a style="text-decoration: none;">Habilidades Desenvolvidas:</a>
+              <li>Desenvolvimento do site e projeto da empresa, Programação em PHP, HTML, CSS.</li>
+              <li>Programação em MySQL, manutenção e implementação de módulos da Plataforma Moodle e Desenvolvimento em framework YII.</li>
+            </ul>
+          </div>
+					<div class="content">
+						<h3>02/07/2010 a 28/07/2011</h3>
+            <p><strong>IFRN – Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte<br />
+              <em>Desenvolvedor Web e Programador</strong></em></p>
+            <ul class="info">
+							</br>
+							<a style="text-decoration: none;">Habilidades Desenvolvidas:</a>
+              <li>Desenvolvedor de Objetos de Aprendizagens, Programação em Flash, Programação em PHP.</li>
+              <li>Programação em MySQL e manutenção e implementação de módulos da Plataforma Moodle.</li>
+            </ul>
+          </div>
+					<div class="content">
+						<h3>26/08/2009 - 02/03/2010</h3>
+            <p><strong>SANEX- Cursos Profissionalizantes (Natal-RN) <br />
+              <em>Instrutor de Informática</strong></em></p>
+            <ul class="info">
+							</br>
+							<a style="text-decoration: none;">Habilidades Desenvolvidas:</a>
+              <li>Professor de Informática, Cadastro de Alunos, Cadastro de Notas, Manutenção de Computadores</li>
+              <li>Manutenção de Computadores, Auxiliar na Administração e Coordenação Pedagógica, Instalação e Suporte de Software, Desenvolvimento de Exercícios para os alunos.</li>
+            </ul>
+          </div>
+        </div>
+				<hr>
+        <!-- End 3rd Row -->
+         <!-- Begin 5th Row -->
+        <div class="entry">
+        <h2><strong>Cursos Realizados</strong></h2>
+				<div class="content">
+					<h3>Concluido em junho 2016</h3>
+					<p><strong>Desenvolvimento de Módulos para Moodle</strong><br />
+						<em><strong>Avante Brasil Informática E Treinamentos Ltda</strong></em></p>
+				</div>
+				<div class="content">
+					<h3>Concluido em agosto 2015</h3>
+					<p><strong>HTML5 e CSS5</strong><br />
+						<em><strong>Anaiv Tecnologia</strong></em></p>
+				</div>
+				<div class="content">
+					<h3>Concluido em setembro 2014</h3>
+					<p><strong>SQL Banco Modelagem</strong><br />
+						<em><strong>Informaticon Cursos – Online</strong></em></p>
+				</div>
+				<div class="content">
+					<h3>Concluido em junho 2013</h3>
+					<p><strong>PHP Avançado</strong><br />
+						<em><strong>Informaticon Cursos – Online</strong></em></p>
+				</div>
+				<div class="content">
+					<h3>Concluido em abril 2013</h3>
+					<p><strong>PHP Básico</strong><br />
+						<em><strong>Informaticon Cursos – Online</strong></em></p>
+				</div>
+				<div class="content">
+					<h3>Concluido em agosto 2012</h3>
+					<p><strong>Administrando e Armazenando Dados com SQL Server 2005</strong><br />
+						<em><strong>Fundação Bradesco - Escola Virtual</strong></em></p>
+				</div>
+				<div class="content">
+					<h3>Concluido em junho 2012</h3>
+					<p><strong>Modelagem de Dados</strong><br />
+						<em><strong>Fundação Bradesco - Escola Virtual</strong></em></p>
+				</div>
+				<div class="content">
+					<h3>Concluido em março 20012</h3>
+					<p><strong>Projetando e Implementando Dados com SQL Server 2005</strong><br />
+						<em><strong>Fundação Bradesco - Escola Virtual</strong></em></p>
+				</div>
+				<div class="content">
+					<h3>Concluido em abril 2009</h3>
+					<p><strong>Processo de Desenvolvimento de Software</strong><br />
+						<em><strong>Fundação Bradesco - Escola Virtual</strong></em></p>
+				</div>
+				<div class="content">
+					<h3>Concluido em fevereiro 2009</h3>
+					<p><strong>Análise Estruturada de Sistemas</strong><br />
+						<em><strong>Fundação Bradesco - Escola Virtual</strong></em></p>
+				</div>
+				<div class="content">
+					<h3>Concluido em setebro 2008</h3>
+					<p><strong>Lógica de Programação</strong><br />
+						<em><strong>Fundação Bradesco - Escola Virtual</strong></em></p>
+				</div>
+				<div class="content">
+					<h3>Concluido em janeiro 2008</h3>
+					<p><strong>Introdução ao JavaScript</strong><br />
+						<em><strong>Fundação Bradesco - Escola Virtual</strong></em></p>
+				</div>
+				<div class="content">
+					<h3>Concluido em novembro 2007</h3>
+					<p><strong>Inovando com CSS</strong><br />
+						<em><strong>Fundação Bradesco - Escola Virtual</strong></em></p>
+				</div>
+				<div class="content">
+					<h3>Concluido em janeiro 2007</h3>
+					<p><strong>HTML - Avançado</strong><br />
+						<em><strong>Fundação Bradesco - Escola Virtual</strong></em></p>
+				</div>
+				<div class="content">
+					<h3>Concluido em outubro 2006</h3>
+					<p><strong>Montagem e Manutenção de Microcomputadores</strong><br />
+						<em><strong>SENAC/RN</strong></em></p>
+				</div>
+				<div class="content">
+					<h3>Concluido em agosto 2003</h3>
+					<p><strong>Operador de Micro (Windows, Word, Excel, Power Point, internet, Photoshop, Corel Draw, Digitação).</strong><br />
+						<em><strong>Sarmento Computadores/DF</strong></em></p>
+				</div>
+        </div>
+				<hr>
+				<!-- Begin 1st Row -->
+				<div class="entry">
+					<h2><strong>Objetivo</strong></h2>
+					<p>Atuar onde seja necessário para o desenvolvimento da empresa; promover de uma forma eficaz e eficiente o trabalho no setor que venha a atuar, com o objetivo de alcançar todas as premissas necessárias para um bom trabalho.</p>
+				</div>
+				<!-- End 1st Row -->
+        <!-- Begin 5th Row -->
+      </div>
+      <div class="clear"></div>
+      <div class="paper-bottom"></div>
+    </div>
+    <!-- End Paper -->
+  </div>
+  <div class="wrapper-bottom"></div>
+</div>
+<!-- End Wrapper -->
+</body>
+</html>
