@@ -45,8 +45,9 @@ a, a:hover, a:visited, a:active {
 .entry {
 	width:820px;
 	display: block;
-	padding-top:55px;
+	padding-top: 25px;
 	clear: both;
+	margin-left: 4px;
 }
 
 h1 {
@@ -59,28 +60,37 @@ h1 {
 h1 span {
 	font-size:21pt;
 	display:block;
-	margin-left:15px;
-	margin-top:20px;
+	margin-left:4px !important;
+	margin-top:10px;
 	color:#1b4491;
+	line-height: 2.5;
 }
 
 h2 {
-	width: 195px;
+	width: 225px;
     height: 23px;
-    text-align: right;
+    text-align: left;
     float: left;
     padding: 0;
     margin: 0;
     clear: both;
-    font-size: 16px;
+    font-size: 18px;
     color: #1b4491;
     margin-bottom: -12px;
+
 }
 
 p {
 	width:600px;
-	margin-left:40px;
-	float:right;
+	margin-left:30px;
+	float:left;
+	text-align: justify;
+}
+
+p.objetivo {
+	width:515px;
+	margin-left:-40px;
+	float:left;
 	text-align: justify;
 }
 
@@ -99,13 +109,14 @@ ul.list li {
 
 
 h3 {
-	width:180px;
-	text-align: right;
+	width:160px;
+	text-align: center;
 	float:left;
 	padding:0;
 	clear:both;
 	font-size: 13pt;
-	color:black;
+	color: #7b90b5;
+	margin-left: -2px;
 }
 
 em {
@@ -174,7 +185,8 @@ img.portrait {
 }
 
 .self ul {
-	padding-top: 10px;
+	padding-top: 2px;
+
 }
 
 .self ul li {
@@ -286,3 +298,4 @@ big {
 .works {
 	display:none;
 }*/
+
