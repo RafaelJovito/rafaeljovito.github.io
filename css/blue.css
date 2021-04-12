@@ -408,6 +408,9 @@ img.portrait {
 
 /* SELF INFORMATION */
 /* ----------------------------------------- */
+li.ad {
+    height: 38px !important;
+}
 
 .self {
 	width:320px;
